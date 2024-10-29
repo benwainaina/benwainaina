@@ -86,3 +86,14 @@ and I believe you will learn a thing or two.
 `Database`
 
 <img title="Postgre SQL" align="left" alt="Postgre SQL" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<br>
+<br>
+<br>
+<br>
+
+`echo: Github Report | 📈`
+
+<br>
+
+![Ben's GitHub Report](https://github-readme-stats.vercel.app/api?username=benwainaina&show_icons=true&theme=gruvbox)
