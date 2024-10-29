@@ -22,11 +22,8 @@ and I believe you will learn a thing or two.
 
 <br>
 
-`ls: Programming Languages | Skills | Tools | Database 🧰`
+`ls: In My Toolbox 🧰`
 <br>
-<br>
-
-`Programming Languages`
 
 <img title="Python" align="left" alt="Python" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
@@ -35,13 +32,6 @@ and I believe you will learn a thing or two.
 <img title="TypeScript" align="left" alt="TypeScript" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 
 <img title="Godot" align="left" alt="Godot" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
-
-<br>
-<br>
-<br>
-<br>
-
-`Skills`
 
 <img title="Angular" align="left" alt="Angular" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
 
@@ -67,23 +57,11 @@ and I believe you will learn a thing or two.
 
 <img title="Fast API" align="left" alt="Fast API" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
 
-<br>
-<br>
-<br>
-<br>
-
-`Tools`
+<img title="Firebase" align="left" alt="Firebase" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/>
 
 <img title="Docker" align="left" alt="Docker" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 
 <img title="Unix" align="left" alt="Unix" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"/>
-
-<br>
-<br>
-<br>
-<br>
-
-`Database`
 
 <img title="Postgre SQL" align="left" alt="Postgre SQL" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
@@ -97,3 +75,8 @@ and I believe you will learn a thing or two.
 <br>
 
 ![Ben's GitHub Report](https://github-readme-stats.vercel.app/api?username=benwainaina&show_icons=true&theme=gruvbox)
+
+`show: Youtube Videos | `
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
