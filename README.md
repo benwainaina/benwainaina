@@ -112,7 +112,9 @@ and I believe you will learn a thing or two.
 <br>
 <br>
 
-`show: Youtube Videos | `
+`show: Youtube Videos | 🎞️`
+
+<br>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Learn HTML + JavaScript + CSS | Building Instagram Sign Up Page - Defining Page Structure With HTML](https://ytcards.demolab.com/?id=p8ldnZT_TrM&title=Learn+HTML+%2B+JavaScript+%2B+CSS+%7C+Building+Instagram+Sign+Up+Page+-+Defining+Page+Structure+With+HTML&lang=en&timestamp=1730186541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learn HTML + JavaScript + CSS | Building Instagram Sign Up Page - Defining Page Structure With HTML")](https://www.youtube.com/watch?v=p8ldnZT_TrM)
