@@ -93,7 +93,6 @@ and I believe you will learn a thing or two.
 <br>
 <br>
 <br>
-<br>
 
 `echo: Github Report | 📈`
 
