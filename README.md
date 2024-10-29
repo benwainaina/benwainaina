@@ -22,8 +22,11 @@ and I believe you will learn a thing or two.
 
 <br>
 
-`ls: Toolbox | 🧰`
+`ls: Toolbox 🧰 >> Languages | Frontend | Backend | Databases | Tools`
 <br>
+<br>
+
+`Languages`
 
 <img title="Python" align="left" alt="Python" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
@@ -33,17 +36,18 @@ and I believe you will learn a thing or two.
 
 <img title="Godot" align="left" alt="Godot" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
 
-<img title="Angular" align="left" alt="Angular" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+<br>
+<br>
+<br>
+<br>
 
-<img title="Django" align="left" alt="Django" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+`Frontend`
+
+<img title="Angular" align="left" alt="Angular" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
 
 <img title="React JS + React Native" align="left" alt="React JS" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
-<img title="Node JS" align="left" alt="Node JS" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-
 <img title="Tailwind CSS" align="left" alt="Tailwind CSS" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-
-<img title="Nest JS" align="left" alt="Nest JS" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/>
 
 <img title="HTML 5" align="left" alt="HTML 5" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
@@ -55,7 +59,27 @@ and I believe you will learn a thing or two.
 
 <img title="Ionic" align="left" alt="Ionic" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
 
+<br>
+<br>
+<br>
+<br>
+
+`Backend`
+
+<img title="Django" align="left" alt="Django" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+
 <img title="Fast API" align="left" alt="Fast API" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+
+<img title="Nest JS" align="left" alt="Nest JS" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/>
+
+<img title="Node JS" align="left" alt="Node JS" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+<br>
+<br>
+<br>
+<br>
+
+`Databases And Tools`
 
 <img title="Firebase" align="left" alt="Firebase" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/>
 
