@@ -22,7 +22,7 @@ and I believe you will learn a thing or two.
 
 <br>
 
-`ls: In My Toolbox 🧰`
+`ls: Toolbox | 🧰`
 <br>
 
 <img title="Python" align="left" alt="Python" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -63,8 +63,9 @@ and I believe you will learn a thing or two.
 
 <img title="Unix" align="left" alt="Unix" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"/>
 
-<img title="Postgre SQL" align="left" alt="Postgre SQL" width="33px" style="margin-right:22px; margin-top: 22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img title="Postgre SQL" align="left" alt="Postgre SQL" width="33px" style="margin-right:22px; margin-top: 22px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
+<br>
 <br>
 <br>
 <br>
