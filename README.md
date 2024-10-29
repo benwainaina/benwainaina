@@ -98,7 +98,16 @@ and I believe you will learn a thing or two.
 
 <br>
 
-![Ben's GitHub Report](https://github-readme-stats.vercel.app/api?username=benwainaina&show_icons=true&theme=gruvbox)
+![Ben's GitHub Report](https://github-readme-stats.vercel.app/api?username=benwainaina&show_icons=true&theme=radical)
+
+<br>
+<br>
+
+`echo: Github Contributions | 📈`
+
+<br>
+
+[![Ben's GitHub Report](https://streak-stats.demolab.com/?user=benwainaina&theme=radical)](https://git.io/streak-stats)
 
 <br>
 <br>
@@ -106,10 +115,12 @@ and I believe you will learn a thing or two.
 `show: Youtube Videos | `
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Learn HTML + JavaScript + CSS | Building Instagram Sign Up Page - Defining Page Structure With HTML](https://ytcards.demolab.com/?id=p8ldnZT_TrM&title=Learn+HTML+%2B+JavaScript+%2B+CSS+%7C+Building+Instagram+Sign+Up+Page+-+Defining+Page+Structure+With+HTML&lang=en&timestamp=1730186541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learn HTML + JavaScript + CSS | Building Instagram Sign Up Page - Defining Page Structure With HTML")](https://www.youtube.com/watch?v=p8ldnZT_TrM)
 [![⛔  🐛  ⚙️ Learn Ionic Angular | Fix Keyboard Pushing Content Up In Ionic](https://ytcards.demolab.com/?id=JdbwePpU_LE&title=%E2%9B%94++%F0%9F%90%9B++%E2%9A%99%EF%B8%8F+Learn+Ionic+Angular+%7C+Fix+Keyboard+Pushing+Content+Up+In+Ionic&lang=en&timestamp=1729056248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⛔  🐛  ⚙️ Learn Ionic Angular | Fix Keyboard Pushing Content Up In Ionic")](https://www.youtube.com/watch?v=JdbwePpU_LE)
 [![⛔  🐛  ⚙️ Learn React Native | Fix i18next::pluralResolver: use an Intl.PluralRules polyfill](https://ytcards.demolab.com/?id=-EWIEd9B8YQ&title=%E2%9B%94++%F0%9F%90%9B++%E2%9A%99%EF%B8%8F+Learn+React+Native+%7C+Fix+i18next%3A%3ApluralResolver%3A+use+an+Intl.PluralRules+polyfill&lang=en&timestamp=1728884212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⛔  🐛  ⚙️ Learn React Native | Fix i18next::pluralResolver: use an Intl.PluralRules polyfill")](https://www.youtube.com/watch?v=-EWIEd9B8YQ)
 [![⛔  🐛  ⚙️React Native | How To Fix Keyboard Pushing Content Up In Expo](https://ytcards.demolab.com/?id=zvPxONBLNXk&title=%E2%9B%94++%F0%9F%90%9B++%E2%9A%99%EF%B8%8FReact+Native+%7C+How+To+Fix+Keyboard+Pushing+Content+Up+In+Expo&lang=en&timestamp=1728717289&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⛔  🐛  ⚙️React Native | How To Fix Keyboard Pushing Content Up In Expo")](https://www.youtube.com/watch?v=zvPxONBLNXk)
 [![Learn React Native | How To Internationalize Your React Native Application 🌐](https://ytcards.demolab.com/?id=MW9PXW6pnWo&title=Learn+React+Native+%7C+How+To+Internationalize+Your+React+Native+Application+%F0%9F%8C%90&lang=en&timestamp=1728673739&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learn React Native | How To Internationalize Your React Native Application 🌐")](https://www.youtube.com/watch?v=MW9PXW6pnWo)
 [![Learn React JS | How To Toggle Between Light And Dark Mode Themes In React JS + Redux ☀️ 🌑](https://ytcards.demolab.com/?id=_YGnK5QWKTU&title=Learn+React+JS+%7C+How+To+Toggle+Between+Light+And+Dark+Mode+Themes+In+React+JS+%2B+Redux+%E2%98%80%EF%B8%8F+%F0%9F%8C%91&lang=en&timestamp=1727681851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learn React JS | How To Toggle Between Light And Dark Mode Themes In React JS + Redux ☀️ 🌑")](https://www.youtube.com/watch?v=_YGnK5QWKTU)
+
 <!-- END YOUTUBE-CARDS -->
