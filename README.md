@@ -100,6 +100,9 @@ and I believe you will learn a thing or two.
 
 ![Ben's GitHub Report](https://github-readme-stats.vercel.app/api?username=benwainaina&show_icons=true&theme=gruvbox)
 
+<br>
+<br>
+
 `show: Youtube Videos | `
 
 <!-- BEGIN YOUTUBE-CARDS -->
